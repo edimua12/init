@@ -26,4 +26,3 @@ for (let i = 0; i < bits.length; i++) {
 }
 
 console.log(`decimal: ${decimal}`);
-console.log(`decimal: ${decimal}`);
